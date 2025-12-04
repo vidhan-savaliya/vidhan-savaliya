@@ -1,16 +1,46 @@
-## Hi there 👋
+# 👋 Hi, I'm Vidhan Savalıya  
+### 🚀 Machine Learning Engineer | Deep Learning | Diffusion Models | Computer Vision
 
-<!--
-**vidhan-savaliya/vidhan-savaliya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build intelligent systems using Machine Learning, Deep Learning.  
+Passionate about adversarial attacks, diffusion models, and deploying real-world ML applications.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔥 Areas I Work In
+- 🧠 Deep Learning — CNNs, ViTs, RNNs, Autoencoders   
+- 🎯 Adversarial Attacks & Robustness (FGSM, PGD, ViT attacks, Diffusion attacks)  
+- 👁️ Computer Vision (Face, Age, Detection, Segmentation, Tracking)  
+- ⚙️ Backend for AI — FastAPI, Flask, Docker  
+- 📊 Machine Learning — forecasting, clustering, classical ML  
+
+---
+
+## 💼 Featured Projects
+### 🔹 **SkillVerse – Smart E-Learning Platform**
+_Automated content delivery + smart UI_  
+**Tech:** HTML, CSS, JS, Python (upgrading with AI soon)
+
+### 🔹 **Face & Age Detection System**
+_Real-time computer vision application_  
+**Tech:** OpenCV, Python, Age Detection Model  
+
+
+## 🛠 Tech Stack
+**Languages:** Python, JavaScript, HTML/CSS  
+**ML/DL:** PyTorch, TensorFlow, NumPy, OpenCV  
+**Backend:** FastAPI, Flask  
+**Tools:** Git, Docker, Jupyter, Linux  
+
+---
+
+## 📈 GitHub Goals (2025)
+- Build 5 advanced ML/Gen-AI repos  
+- Daily/Weekly contributions  
+- Publish research-style project on adversarial attacks  
+- Deploy end-to-end ML app  
+
+---
+
+## 🌐 Connect With Me
+📩 Email: vidhansavaliya123@gmail.com 
+🔗 LinkedIn: Vidhan Savaliya 
