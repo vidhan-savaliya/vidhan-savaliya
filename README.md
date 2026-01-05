@@ -16,9 +16,9 @@ Passionate about adversarial attacks, diffusion models, and deploying real-world
 ---
 
 ##  Featured Projects
-###  **SkillVerse – Smart E-Learning Platform**
-_Automated content delivery + smart UI_  
-**Tech:** HTML, CSS, JS, Python (upgrading with AI soon)
+###  **DeepCNN An Image Classifier**
+_Experimental computer vision project_  
+**Tech:** Python, PyTorch, OpenCV, Convolutional Neural Networks
 
 ###  **Face & Age Detection System**
 _Real-time computer vision application_  
