@@ -31,15 +31,6 @@ _Real-time computer vision application_
 **Backend:** FastAPI, Flask  
 **Tools:** Git, Docker, Jupyter, Linux  
 
----
-
-##  GitHub Goals (2025)
-- Build 5 advanced ML/Gen-AI repos  
-- Daily/Weekly contributions  
-- Publish research-style project on adversarial attacks  
-- Deploy end-to-end ML app  
-
----
 
 ##  Connect With Me
  Email: vidhansavaliya123@gmail.com 
