@@ -1,5 +1,5 @@
 #  Hi, I'm Vidhan Savalıya  
-###  Machine Learning Engineer | Deep Learning | Diffusion Models | Computer Vision
+###  Machine Learning Engineer | Deep Learning | Computer Vision | MLops | DLops
 
 I build intelligent systems using Machine Learning, Deep Learning.  
 Passionate about adversarial attacks, diffusion models, and deploying real-world ML applications.
@@ -29,7 +29,7 @@ _Real-time computer vision application_
 **Languages:** Python, JavaScript, HTML/CSS  
 **ML/DL:** PyTorch, TensorFlow, NumPy, OpenCV  
 **Backend:** FastAPI, Flask  
-**Tools:** Git, Docker, Jupyter, Linux  
+**Tools:** Git, Docker, Jupyter, Linux, Hugging Face
 
 
 ##  Connect With Me
